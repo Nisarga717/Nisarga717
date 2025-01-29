@@ -5,11 +5,12 @@
 Welcome to my GitHub profile! I'm passionate about technology, development, and continuous learning. Here, you'll find projects related to AI, web development, and much more!
 
 ## 🚀 About Me
-- 🌱 Currently exploring **Machine Learning & AI**
-- 💡 Working on innovative projects at **Vruksham** 🌿
-- 💻 Interested in **Full Stack Development, Data Science, and AI**
-- 📖 6th Semester Student | Always eager to learn new things
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+👋 Hi, I'm Nisarga! A tech enthusiast who loves to build, break, and innovate. With a passion for web development, blockchain, and emerging technologies, I'm always on the lookout for the next big thing in tech. Whether it's crafting seamless user experiences, diving into decentralized applications, or experimenting with AI, I'm all about pushing boundaries and learning something new every day.
+
+💻 Web Development Enthusiast, building sleek and scalable applications.
+🔗 Blockchain Buff, fascinated by the future of decentralized tech.
+🤖 AI & ML Explorer, diving into data-driven innovations.
+🌍 Always on the lookout for new technologies to tinker with.
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
