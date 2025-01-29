@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Nisarga
 
-<img src="https://raw.githubusercontent.com/Nisarga717/Nisarga717/main/github-header.png" alt="Welcome Banner" width="100%">
+<img src="https://raw.githubusercontent.com/Nisarga717/Nisarga717/main/github-header-image.png" alt="Welcome Banner" width="100%">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nisarga717&label=Profile%20Views&color=blue&style=flat)
 
