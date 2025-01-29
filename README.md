@@ -8,8 +8,11 @@ Welcome to my GitHub profile! I'm passionate about technology, development, and 
 👋 Hi, I'm Nisarga! A tech enthusiast who loves to build, break, and innovate. With a passion for web development, blockchain, and emerging technologies, I'm always on the lookout for the next big thing in tech. Whether it's crafting seamless user experiences, diving into decentralized applications, or experimenting with AI, I'm all about pushing boundaries and learning something new every day.
 
 💻 Web Development Enthusiast, building sleek and scalable applications.
+
 🔗 Blockchain Buff, fascinated by the future of decentralized tech.
+
 🤖 AI & ML Explorer, diving into data-driven innovations.
+
 🌍 Always on the lookout for new technologies to tinker with.
 
 ## 🛠️ Tech Stack
