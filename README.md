@@ -38,7 +38,7 @@ AI-powered tool that identifies medicinal plants & suggests remedies.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarga717&layout=compact&theme=radical)
 
-![Contribution Snake](https://github.com/Nisarga717/Nisarga717/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Nisarga717/Nisarga717/output/snake.svg" alt="Snake animation" />
 
 ![Nisarga's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nisarga717)
 
